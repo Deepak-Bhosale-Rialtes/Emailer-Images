@@ -8,3 +8,4 @@
 ![Logo 2](https://github.com/user-attachments/assets/ae0037a6-a6e7-4dd1-8b83-530b99d6ed18)
 ![Logo 3](https://github.com/user-attachments/assets/0fc9fcdd-082c-4379-bca7-f6866db2e245)
 ![Logo 4](https://github.com/user-attachments/assets/be0e8239-4b79-4994-8a9a-992a2f846ef0)
+![SAP AMS logo 2](https://github.com/user-attachments/assets/495fa0ef-979d-4bdb-b95c-cd3f75b9e9fc)
