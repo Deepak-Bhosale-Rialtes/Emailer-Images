@@ -11,6 +11,14 @@
 ![SAP AMS logo 2](https://github.com/user-attachments/assets/495fa0ef-979d-4bdb-b95c-cd3f75b9e9fc)
 
 
+***Updated Logo For SAP AMS***
+
+![Logo 11](https://github.com/user-attachments/assets/04a1ccc0-c89b-4d16-bccf-9393643e9ce6)
+![Logo 22](https://github.com/user-attachments/assets/dae883d6-ba52-4472-b2bd-aad342c7e89d)
+![Logo 33](https://github.com/user-attachments/assets/a325da88-8d78-4b33-817c-531f42654392)
+![Logo 44](https://github.com/user-attachments/assets/7830f7b2-1b6a-4308-b7a9-fd7df4d3b3d6)
+
+
 ***SF AMS Images***
 
 ![SF AMS Banner](https://github.com/user-attachments/assets/550d5525-9e7f-4e2c-82f5-21f5dd4b0138)
@@ -22,7 +30,27 @@
 ![Logo 5](https://github.com/user-attachments/assets/77c4fb5a-c173-40bc-a70f-b27c29e7f873)
 
 
+***Updated Logo For SF AMS***
+
+![Logo 11](https://github.com/user-attachments/assets/0d5523ee-d9f8-4503-8113-c5610118f5e4)
+![Logo 22](https://github.com/user-attachments/assets/21f1995e-5c1f-46cb-b89e-cfc1a5920572)
+![Logo 33](https://github.com/user-attachments/assets/0f3dd8a8-7a50-434b-9b73-17ed2b916c43)
+![Logo 44](https://github.com/user-attachments/assets/0de703f2-c6b6-430a-8597-0070aaa065b2)
+![Logo 55](https://github.com/user-attachments/assets/33c8f8ec-6b33-4e16-b8e2-53d85f0d35bd)
+
+
+
 
 *** Agentforce 2***
 ![Agentforce 2 banner](https://github.com/user-attachments/assets/31461292-a94e-49d6-bc70-ca5f0214adc2)
+
+
+
+
+
+***Successfactor-2***
+![Successfactor Banner](https://github.com/user-attachments/assets/c823042c-d767-455e-84a3-2bec05f62f50)
+![Successfactor Logo2](https://github.com/user-attachments/assets/19ba8c9e-ebef-430c-92d3-ee74733ea3bd)
+![Successfactor Logo](https://github.com/user-attachments/assets/fe49931a-08cd-411e-9067-43e485082702)
+
 
