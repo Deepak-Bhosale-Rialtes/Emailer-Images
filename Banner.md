@@ -52,5 +52,6 @@
 ![Successfactor Banner](https://github.com/user-attachments/assets/c823042c-d767-455e-84a3-2bec05f62f50)
 ![Successfactor Logo2](https://github.com/user-attachments/assets/19ba8c9e-ebef-430c-92d3-ee74733ea3bd)
 ![Successfactor Logo](https://github.com/user-attachments/assets/fe49931a-08cd-411e-9067-43e485082702)
+![Successfactor Case Study](https://github.com/user-attachments/assets/7ddcd335-ed8d-4e72-880e-60d5a11334a5)
 
 
