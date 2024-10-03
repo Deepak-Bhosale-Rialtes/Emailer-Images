@@ -53,5 +53,18 @@
 ![Successfactor Logo2](https://github.com/user-attachments/assets/19ba8c9e-ebef-430c-92d3-ee74733ea3bd)
 ![Successfactor Logo](https://github.com/user-attachments/assets/fe49931a-08cd-411e-9067-43e485082702)
 ![Successfactor Case Study](https://github.com/user-attachments/assets/7ddcd335-ed8d-4e72-880e-60d5a11334a5)
+![SuccessFactors_Blog-1-1-e1727697458780 (1)](https://github.com/user-attachments/assets/58c3d247-f7d4-4176-9b8a-dbe15e452dc2)
+
+
+***Data Cloud***
+![Data Cloud-2 Header Image](https://github.com/user-attachments/assets/94c56a7e-2de2-4523-baaa-18a3bc692f61)
+![Data Cloud Insights](https://github.com/user-attachments/assets/5cbb6079-3036-418b-8fb6-7ff96278699d)
+
+![19e485af-bb69-4c16-b66e-98b4e1e24006](https://github.com/user-attachments/assets/f8f9911d-1a06-42fd-9c50-3792d38c1332)
+
+
+
+
+![rainbow-abstract-background 1](https://github.com/user-attachments/assets/2b68a786-ab0b-4075-abcd-064f86f14b26)
 
 
