@@ -1,4 +1,4 @@
-![SAP HANA Logo](https://github.com/user-attachments/assets/eb413c85-ed91-4a6e-bf51-c9eacd55cea1)
+![Frame 96487](https://github.com/user-attachments/assets/7f390f5f-4980-44d2-bc14-bd5aa0cd260f)![SAP HANA Logo](https://github.com/user-attachments/assets/eb413c85-ed91-4a6e-bf51-c9eacd55cea1)
 ![SAP HANA Banner](https://github.com/user-attachments/assets/6e4296f1-ee54-4aa9-bf67-72cce8197f56)
 
 
@@ -66,5 +66,20 @@
 
 
 ![rainbow-abstract-background 1](https://github.com/user-attachments/assets/2b68a786-ab0b-4075-abcd-064f86f14b26)
+
+
+
+***Salesforce AMS2***
+![Banner](https://github.com/user-attachments/assets/d2942610-3f67-4294-9d69-9bebec7c0eda)
+
+
+
+***SAP-HANA***
+![SAP Business AI_Blog (1)](https://github.com/user-attachments/assets/6fa64aa6-82e0-47de-aa12-385384f16446)
+![SAP HANA2 BANNER](https://github.com/user-attachments/assets/8cbcc422-6710-45d8-b404-da4a3b5ac38d)
+
+![background Home Page]()
+
+
 
 
