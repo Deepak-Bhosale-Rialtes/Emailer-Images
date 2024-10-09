@@ -80,6 +80,22 @@
 
 ![background Home Page]()
 
+***SAP-AMS-2***
 
+
+
+
+![banner](https://github.com/user-attachments/assets/27f03b84-2b29-46a0-b2a0-fcff2ac54c0a)
+
+
+
+***Agentforce-3***
+![banner](https://github.com/user-attachments/assets/84b035d5-8d7e-4dd4-88a6-28cc7832e85e)
+
+![AI healthcare blog](https://github.com/user-attachments/assets/75d590da-1a26-46f3-9ab0-d325a4f2c33b)
+
+
+***Successfactor-3***
+![3630b955-89c0-4bd2-8140-992b1807c056](https://github.com/user-attachments/assets/1fe18894-b6aa-486d-8f2b-db524097eae7)
 
 
