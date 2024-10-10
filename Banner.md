@@ -98,4 +98,36 @@
 ***Successfactor-3***
 ![3630b955-89c0-4bd2-8140-992b1807c056](https://github.com/user-attachments/assets/1fe18894-b6aa-486d-8f2b-db524097eae7)
 
+![SF_week 2_Blog (1)](https://github.com/user-attachments/assets/f6bc6152-92ec-4561-896c-7f6a785e70ff)
+
+
+
+
+***MedTech***
+![MedTech Banner](https://github.com/user-attachments/assets/9e2a4a89-a889-4fb1-9c20-ef1fd704c1ed)
+
+![Redirection](https://github.com/user-attachments/assets/95cfdc6a-e9d6-4c87-89fa-74f0846e013d)
+
+![Asset 10 (1)](https://github.com/user-attachments/assets/6e53545c-6e34-4948-aea1-6f4cc220e270)
+
+![Asset 14](https://github.com/user-attachments/assets/3d0dacf3-5aeb-4df0-943b-3067d01a2e63)
+
+
+![Case 1](https://github.com/user-attachments/assets/eac653a8-ee4f-401c-8a65-d024d938baba)
+
+![Case 2](https://github.com/user-attachments/assets/faebf512-2ca6-4f5f-98f4-bb80f956267b)
+
+
+
+***Data Cloud -3***
+
+
+![banner](https://github.com/user-attachments/assets/21301116-ee63-4325-b754-be2411c5db3d)
+
+![Data Cloud_week 2_blog (1)](https://github.com/user-attachments/assets/8ad7beb6-9d5d-454b-ba3d-044bdadd55b5)
+
+
+
+
+
 
