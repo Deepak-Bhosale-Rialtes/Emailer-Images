@@ -127,6 +127,12 @@
 ![Data Cloud_week 2_blog (1)](https://github.com/user-attachments/assets/8ad7beb6-9d5d-454b-ba3d-044bdadd55b5)
 
 
+***MedTech Day-1***
+![collage](https://github.com/user-attachments/assets/d9c39056-135d-4814-8b8d-f287e247d2c4)
+![banner](https://github.com/user-attachments/assets/4798d02b-7bae-4297-b982-4435d2e9f903)
+![blog image](https://github.com/user-attachments/assets/6f50a1be-85ab-4f70-aed0-a5a2384739ae)
+
+
 
 
 
