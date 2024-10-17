@@ -140,5 +140,12 @@
 ***MedTech Day-2***
 ![Read Blog Image](https://github.com/user-attachments/assets/4ca998db-c3ee-451c-910a-945d18606a65)
 
+![Collage](https://github.com/user-attachments/assets/ac89000c-045f-499f-974d-4503daf4c0c7)
+![Banner](https://github.com/user-attachments/assets/67bd4d32-6b2a-4ae8-9c69-95e009556114)
+
+
+***MedTech Day3***
+![blog-2](https://github.com/user-attachments/assets/dc1ebd84-51bd-4bd1-99eb-0a0a144457b1)
+![blog-3](https://github.com/user-attachments/assets/66e4aff1-83df-44c6-a31c-2c74972da323)
 
 
