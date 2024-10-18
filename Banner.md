@@ -152,4 +152,11 @@
 
 
 
+***MedTech ThankYou***
+![Banner](https://github.com/user-attachments/assets/3e670754-3fc3-4f1d-8a61-55e92e2a3915)
+![Collage](https://github.com/user-attachments/assets/13186af2-7581-4eb6-9d9a-78876cc3da29)
+![Updated Collage](https://github.com/user-attachments/assets/224bc347-51a7-4407-87f5-031641b6c57c)
+
+
+
 
