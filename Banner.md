@@ -167,7 +167,11 @@
 
 ***Successfactor-4***
 ![banner](https://github.com/user-attachments/assets/c746c4e5-2786-4dae-b2b1-c4d12237f1ba)
-
 ![SuccessFactors_week 3_blog (1)](https://github.com/user-attachments/assets/1f5ba131-d6fc-4070-a621-9c80d8d69823)
+
+
+***SAP HANA-4***
+![Banner](https://github.com/user-attachments/assets/3d01c732-c498-41eb-8a1e-a2d1576a2907)
+![SAP Business AI_week 2_Blog (1)](https://github.com/user-attachments/assets/53f96580-0da9-4bd2-b475-5768be271b52)
 
 
