@@ -175,3 +175,16 @@
 ![SAP Business AI_week 2_Blog (1)](https://github.com/user-attachments/assets/53f96580-0da9-4bd2-b475-5768be271b52)
 
 
+
+***Agentforce-5***
+![banner](https://github.com/user-attachments/assets/9c1ed506-6d0e-437f-b5d9-c06208f5fda7)
+![Agentforce Week 4_Web (2) (1)](https://github.com/user-attachments/assets/025a78eb-ddb5-4f04-b838-eda1eb364e08)
+
+
+
+***Successfactor-5***
+![Banner](https://github.com/user-attachments/assets/f240cce3-f648-42c2-aa4d-7ca0ae558664)
+![SuccessFactors_week 4_Blog 2 (1)](https://github.com/user-attachments/assets/49c829af-b37d-4ed8-bb40-8ba2afa9785d)
+
+
+
