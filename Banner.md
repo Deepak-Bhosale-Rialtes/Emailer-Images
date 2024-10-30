@@ -182,6 +182,14 @@
 
 
 
+***Data-cloud-5***
+![banner](https://github.com/user-attachments/assets/3d9f3394-1d03-4468-8142-28a1277401c8)
+![Data Cloud_week 4_Blog (1)](https://github.com/user-attachments/assets/36607d94-00bd-40ec-9761-7e27994c6fdb)
+
+
+
+
+
 ***Successfactor-5***
 ![Banner](https://github.com/user-attachments/assets/f240cce3-f648-42c2-aa4d-7ca0ae558664)
 ![SuccessFactors_week 4_Blog 2 (1)](https://github.com/user-attachments/assets/49c829af-b37d-4ed8-bb40-8ba2afa9785d)
