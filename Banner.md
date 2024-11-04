@@ -194,5 +194,14 @@
 ![Banner](https://github.com/user-attachments/assets/f240cce3-f648-42c2-aa4d-7ca0ae558664)
 ![SuccessFactors_week 4_Blog 2 (1)](https://github.com/user-attachments/assets/49c829af-b37d-4ed8-bb40-8ba2afa9785d)
 
+***SAP S4-HANA-5***
+![S4 Hana_week 4_Blog (1)](https://github.com/user-attachments/assets/443ea44b-9169-4c87-8020-3e8b9f5a5923)
+![Banner](https://github.com/user-attachments/assets/2af1fe3a-ec19-49ca-a3e5-d39abb1cdb95)
+
+
+***Agentforce-6***
+![banner](https://github.com/user-attachments/assets/4df2d766-92c6-4d0d-8e45-74548ae84357)
+![Agentforce Week 5_Web (1)](https://github.com/user-attachments/assets/1d72e8b9-a528-4820-b8e3-78847101341a)
+
 
 
