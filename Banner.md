@@ -208,6 +208,10 @@
 ![c9923757-a7e1-4572-bd63-81fca701843f](https://github.com/user-attachments/assets/5b5b0841-b068-4c06-9c1a-fd6fd60350bc)
 ![speaker](https://github.com/user-attachments/assets/ffdd8821-267f-4c79-a34e-a6c66223c7e6)
 
+***Diversity***
+![Embracing Diversity in the Workplace_email](https://github.com/user-attachments/assets/406a8ef2-5156-424a-9b70-ccf133c9d987)
+![Rialtes Logo 1](https://github.com/user-attachments/assets/71d397a7-7ed1-4209-8a29-9b7ca6a3bfb0)
+
 ***Webinar-2***
 ![Webinar 2_email banner](https://github.com/user-attachments/assets/40e7bf8e-333c-4cbe-abbe-673f9c4c945b)
 ![Divya](https://github.com/user-attachments/assets/f80e9026-d1f0-41b6-9a9d-149d9c9067f3)
