@@ -208,4 +208,7 @@
 ![c9923757-a7e1-4572-bd63-81fca701843f](https://github.com/user-attachments/assets/5b5b0841-b068-4c06-9c1a-fd6fd60350bc)
 ![speaker](https://github.com/user-attachments/assets/ffdd8821-267f-4c79-a34e-a6c66223c7e6)
 
+***Webinar-2***
+![Webinar 2_email banner](https://github.com/user-attachments/assets/40e7bf8e-333c-4cbe-abbe-673f9c4c945b)
+![Divya](https://github.com/user-attachments/assets/f80e9026-d1f0-41b6-9a9d-149d9c9067f3)
 
