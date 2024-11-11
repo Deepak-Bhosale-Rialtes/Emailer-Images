@@ -224,3 +224,11 @@
 
 ![image](https://github.com/user-attachments/assets/5553d871-d5b7-41be-8a86-acb65bf1198a)
 ![S4-Hana_week-3_blog-1](https://github.com/user-attachments/assets/029653e0-905e-4f25-946e-1c66095a39d2)
+
+
+***Agentforce-7***
+![Banner](https://github.com/user-attachments/assets/fe0ce4db-ec62-41e8-a32e-0b7feefe22d4)
+![Agentforce-Week-6_Web](https://github.com/user-attachments/assets/461facc5-8edd-462b-b2d0-52c87f7c8fe2)
+
+
+
