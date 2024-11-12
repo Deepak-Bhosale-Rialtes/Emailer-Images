@@ -235,5 +235,8 @@
 ![banner](https://github.com/user-attachments/assets/09f61b10-9ada-4c40-b8d9-82c8a8eecb59)
 ![speaker](https://github.com/user-attachments/assets/42226637-964b-43c3-b9c4-c6cb012f355a)
 
+***Successfactor-6***
+![Banner](https://github.com/user-attachments/assets/2f71253c-ce16-46d0-8b6b-3780a32f9ac2)
+![SuccessFactors_week-5_Blog](https://github.com/user-attachments/assets/79946244-9fc0-480e-9a7e-4bafec97716e)
 
 
