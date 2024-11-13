@@ -239,4 +239,7 @@
 ![Banner](https://github.com/user-attachments/assets/2f71253c-ce16-46d0-8b6b-3780a32f9ac2)
 ![SuccessFactors_week-5_Blog](https://github.com/user-attachments/assets/79946244-9fc0-480e-9a7e-4bafec97716e)
 
+***DataCloud-6***
+![banner](https://github.com/user-attachments/assets/b6d830d5-4dfc-4304-b43f-a48eb7c45fa3)
+![Data-Cloud_week-5_Blog](https://github.com/user-attachments/assets/b89be13a-48b6-48a9-96e6-c2d49b90d82a)
 
