@@ -243,3 +243,5 @@
 ![banner](https://github.com/user-attachments/assets/b6d830d5-4dfc-4304-b43f-a48eb7c45fa3)
 ![Data-Cloud_week-5_Blog](https://github.com/user-attachments/assets/b89be13a-48b6-48a9-96e6-c2d49b90d82a)
 
+***SAP S4-HANA-6***
+![S4-Hana_week-5_Blog](https://github.com/user-attachments/assets/fb27f7c2-04a7-40ab-8c17-b61eec961302)
