@@ -245,3 +245,12 @@
 
 ***SAP S4-HANA-6***
 ![S4-Hana_week-5_Blog](https://github.com/user-attachments/assets/fb27f7c2-04a7-40ab-8c17-b61eec961302)
+
+
+
+
+
+***Webinar-5***
+![Banner](https://github.com/user-attachments/assets/507d2fda-86dd-4e0b-9826-d362fc200bee)
+![Speaker-2](https://github.com/user-attachments/assets/7963afc5-e66f-40fd-ab7f-fe5fbbab796e)
+
