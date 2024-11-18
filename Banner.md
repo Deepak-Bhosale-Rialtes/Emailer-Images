@@ -254,3 +254,7 @@
 ![Banner](https://github.com/user-attachments/assets/507d2fda-86dd-4e0b-9826-d362fc200bee)
 ![Speaker-2](https://github.com/user-attachments/assets/7963afc5-e66f-40fd-ab7f-fe5fbbab796e)
 
+
+***Agentforce-7(1)***
+![banner](https://github.com/user-attachments/assets/f8e73c80-3fa2-48e1-894b-4747604f66e5)
+
