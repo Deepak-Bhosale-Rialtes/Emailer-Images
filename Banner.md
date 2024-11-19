@@ -261,6 +261,6 @@
 
 
 ***Successfacvtor-7***
-
+![image](https://github.com/user-attachments/assets/98c5c4ef-bc67-443f-ad8c-ed864601a64d)
 ![SuccessFactors_week-6_Blog](https://github.com/user-attachments/assets/b83f762e-e9a4-407d-b2f1-add9e73e6461)
 
