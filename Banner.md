@@ -264,3 +264,9 @@
 ![image](https://github.com/user-attachments/assets/98c5c4ef-bc67-443f-ad8c-ed864601a64d)
 ![SuccessFactors_week-6_Blog](https://github.com/user-attachments/assets/b83f762e-e9a4-407d-b2f1-add9e73e6461)
 
+
+
+***Data-Cloud-7***
+
+![Data-Cloud_week-6_Blog](https://github.com/user-attachments/assets/a5f655dc-163b-4760-93d4-85f6d824fba9)
+
