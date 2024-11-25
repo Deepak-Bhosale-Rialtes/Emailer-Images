@@ -270,3 +270,8 @@
 ![image](https://github.com/user-attachments/assets/120172cf-04b0-4d26-ae7f-f66ff6e49551)
 ![Data-Cloud_week-6_Blog](https://github.com/user-attachments/assets/a5f655dc-163b-4760-93d4-85f6d824fba9)
 
+
+
+***Agentforce-8***
+![Agentforce-Week-7_Web](https://github.com/user-attachments/assets/58917abc-4ac2-41cb-b88f-774ed95ca222)
+
