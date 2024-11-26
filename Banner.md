@@ -275,3 +275,9 @@
 ***Agentforce-8***
 ![Agentforce-Week-7_Web](https://github.com/user-attachments/assets/58917abc-4ac2-41cb-b88f-774ed95ca222)
 
+
+
+***Successfactor-8***
+![image](https://github.com/user-attachments/assets/198fc2ac-c4e2-4d2c-8ce3-6672cbbe3f27)
+![SuccessFactors_week-7_Blog](https://github.com/user-attachments/assets/d5909fa3-0e8a-4e9a-93a7-e7957a0bd985)
+
