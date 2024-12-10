@@ -286,4 +286,7 @@
 ![Agentforce-Week-9-1](https://github.com/user-attachments/assets/dba7719b-464c-4e5b-81a8-4e747aad2553)
 ![image](https://github.com/user-attachments/assets/8a1e1b09-2441-4dac-807b-ef0c6b18fbce)
 
+***Successfactor-9***
+![image](https://github.com/user-attachments/assets/77d45d18-586d-4116-a263-93e94102519d)
+![SuccessFactors_week-8_Blog-1](https://github.com/user-attachments/assets/bfac8d0e-e0f2-46b9-9e21-d2f6de44ca19)
 
