@@ -292,3 +292,5 @@
 
 ***Data Cloud-9***
 ![Data-Cloud_week-7_Blog](https://github.com/user-attachments/assets/57474e03-7547-4746-929b-79a336768348)
+![image](https://github.com/user-attachments/assets/4b97711b-df7f-43e7-9add-f1b81c124045)
+
