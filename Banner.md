@@ -294,3 +294,9 @@
 ![Data-Cloud_week-7_Blog](https://github.com/user-attachments/assets/57474e03-7547-4746-929b-79a336768348)
 ![image](https://github.com/user-attachments/assets/4b97711b-df7f-43e7-9add-f1b81c124045)
 
+
+***S4-Hana-8***
+![image](https://github.com/user-attachments/assets/89c21502-94c8-46c2-b211-b44401b51d5c)
+
+![S4-Hana_week-6_Blog-e1731595983516](https://github.com/user-attachments/assets/26db81fb-fd3c-4a60-9844-78853595ab8a)
+
