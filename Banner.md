@@ -300,3 +300,12 @@
 
 ![S4-Hana_week-6_Blog-e1731595983516](https://github.com/user-attachments/assets/26db81fb-fd3c-4a60-9844-78853595ab8a)
 
+***Rialtes Logo***
+![Rialtes Loog](https://github.com/user-attachments/assets/22deb0b7-ff2f-4f26-aabb-e0883b53a29c)
+
+***athenahealth***
+![image](https://github.com/user-attachments/assets/d1a02ea2-16c7-407e-be12-c939c19b4c23)
+
+
+
+
