@@ -311,3 +311,19 @@
 
 ![image](https://github.com/user-attachments/assets/a1fb256b-da29-44ec-82bb-8039af7c41e3)
 
+
+
+***Happy Holiday***
+![Happy-Holidays_HTML_01](https://github.com/user-attachments/assets/c5c5030a-f10a-43bd-a7c7-79922c96af83)
+![Happy-Holidays_HTML_03](https://github.com/user-attachments/assets/ccc43f56-bba7-48d7-a2f2-e716f77becc5)
+![Happy-Holidays_HTML_background](https://github.com/user-attachments/assets/f6c9c851-ea5f-4951-b3b8-d1c2f44b2665)
+![image](https://github.com/user-attachments/assets/b16d2fb6-d936-4f90-9b22-731e657aa4ed)
+
+
+
+***Happy Holiday-New***
+![Header](https://github.com/user-attachments/assets/de07fbf2-7532-486c-808a-42f01736fd1c)
+![Background](https://github.com/user-attachments/assets/5f3c61d5-1530-4000-9b40-84317f0d387b)
+![Design](https://github.com/user-attachments/assets/17362ffe-0809-4edc-bf58-8baa6749f0a6)
+
+
