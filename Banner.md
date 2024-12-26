@@ -340,5 +340,9 @@
 ![image](https://github.com/user-attachments/assets/8d4a0503-cd0a-4ffc-95c3-f3c88311ecdd)
 
 
+***Successfactors-10***
+![SuccessFactors_week-10_Blog](https://github.com/user-attachments/assets/06d626f8-77f9-4c68-b1ab-7b4095236067)
+![image](https://github.com/user-attachments/assets/2a297693-7583-41e3-9750-35b05671fc20)
+
 
 
