@@ -349,4 +349,6 @@
 ![Zero Copy vs  Traditional ETL Which is Right for Your Business](https://github.com/user-attachments/assets/1af24114-0dd5-4cad-9d37-3e14c522c211)
 ![Data-Cloud_week-10_Blog](https://github.com/user-attachments/assets/43df3b6e-279e-40ef-ab19-5295c4e48daf)
 
+***s4-Hana***
+![image](https://github.com/user-attachments/assets/7aa0217c-703f-4c6a-b250-8446ac499edd)
 
