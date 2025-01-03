@@ -353,3 +353,8 @@
 ![image](https://github.com/user-attachments/assets/7aa0217c-703f-4c6a-b250-8446ac499edd)
 ![Migrating-Tally-to-SAP-S4HANA-Finance](https://github.com/user-attachments/assets/c10b98f3-edc8-4f86-8ae4-6db30d685629)
 
+
+***Data-cloud-11***
+![image](https://github.com/user-attachments/assets/7015ffbe-7367-4ed1-a8cb-3a03b18389f4)
+![Zero-Copy-vs-Traditional-ETL (1)](https://github.com/user-attachments/assets/f7cec011-1002-4279-8b7b-cbecf9d054e7)
+
