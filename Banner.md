@@ -363,4 +363,6 @@
 ![image](https://github.com/user-attachments/assets/bc32cc16-06d1-4f46-9d4f-3cf015aae798)
 ![S4-Hana_week-12_Blog](https://github.com/user-attachments/assets/9e9fe5b0-3e6d-43c1-a614-8716cf73504e)
 
+***Agentforce-12***
+![Slack-collaboration-with-Agentforce-2 (1)](https://github.com/user-attachments/assets/7d89c221-012c-4582-bfc3-f401056095c6)
 
