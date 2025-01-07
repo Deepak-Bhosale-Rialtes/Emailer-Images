@@ -369,4 +369,5 @@
 
 ***Successfactors-12***
 ![Integrating-SAP-SuccessFactors-with-Office-365 (1)](https://github.com/user-attachments/assets/21c4a96d-0376-4dfc-b1da-dedc09ca9909)
+![image](https://github.com/user-attachments/assets/da1b2f70-a819-4204-9188-85a60171b058)
 
