@@ -371,3 +371,5 @@
 ![Integrating-SAP-SuccessFactors-with-Office-365 (1)](https://github.com/user-attachments/assets/21c4a96d-0376-4dfc-b1da-dedc09ca9909)
 ![image](https://github.com/user-attachments/assets/da1b2f70-a819-4204-9188-85a60171b058)
 
+***Webinar-2***
+![image](https://github.com/user-attachments/assets/f0c39e72-57f8-4500-840e-dbc99b9840f2)
