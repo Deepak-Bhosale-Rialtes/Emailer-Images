@@ -365,4 +365,5 @@
 
 ***Agentforce-12***
 ![Slack-collaboration-with-Agentforce-2 (1)](https://github.com/user-attachments/assets/7d89c221-012c-4582-bfc3-f401056095c6)
+![image](https://github.com/user-attachments/assets/9742a882-2ee7-4f02-bd75-bd2142c33287)
 
