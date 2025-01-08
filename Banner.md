@@ -373,3 +373,9 @@
 
 ***Webinar-2***
 ![image](https://github.com/user-attachments/assets/f0c39e72-57f8-4500-840e-dbc99b9840f2)
+
+
+***Data-Cloud-12***
+![image](https://github.com/user-attachments/assets/a3f74ad4-8f47-4027-8883-275bf879a4c2)
+![role-of-salesforce-data-cloud-in-financial-industry (1)](https://github.com/user-attachments/assets/de6f2281-9adc-4542-98b7-763cdf65c056)
+
