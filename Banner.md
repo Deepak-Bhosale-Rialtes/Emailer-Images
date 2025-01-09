@@ -379,3 +379,10 @@
 ![image](https://github.com/user-attachments/assets/a3f74ad4-8f47-4027-8883-275bf879a4c2)
 ![role-of-salesforce-data-cloud-in-financial-industry (1)](https://github.com/user-attachments/assets/de6f2281-9adc-4542-98b7-763cdf65c056)
 
+
+***S4-HANA***
+![image](https://github.com/user-attachments/assets/09465ff6-9d2a-4195-8131-1e7cc813d6a3)
+![role-of-sap-s4hana-in-digital-supply-chain-1](https://github.com/user-attachments/assets/170f1c85-e9ab-4a34-95c3-d03e911125eb)
+
+
+
