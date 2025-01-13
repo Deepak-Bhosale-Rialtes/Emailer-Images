@@ -385,4 +385,7 @@
 ![role-of-sap-s4hana-in-digital-supply-chain-1](https://github.com/user-attachments/assets/170f1c85-e9ab-4a34-95c3-d03e911125eb)
 
 
+***Agentforce-13***
+![what-is-agentforce (1)](https://github.com/user-attachments/assets/e4e9925d-3a8b-4f40-b36a-8d7d0a619a1f)
+![image](https://github.com/user-attachments/assets/78bda8a7-f25c-4ba7-a4d6-fa15025184b7)
 
