@@ -389,3 +389,8 @@
 ![what-is-agentforce (1)](https://github.com/user-attachments/assets/e4e9925d-3a8b-4f40-b36a-8d7d0a619a1f)
 ![image](https://github.com/user-attachments/assets/78bda8a7-f25c-4ba7-a4d6-fa15025184b7)
 
+***Successfactors-13***
+![How-AI-Enhances-HR-Operations-with-SAP-SuccessFactors (1)](https://github.com/user-attachments/assets/9b09a3ab-3c4d-4871-87a1-d6e2a80fc6aa)
+![image](https://github.com/user-attachments/assets/20efc503-1744-4d40-9859-a876d989ce1b)
+
+
