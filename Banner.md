@@ -400,5 +400,8 @@
 ![Pranav](https://github.com/user-attachments/assets/ab64d575-20c9-41c3-8da1-f565b74be194)
 
 
+***Data-cloud-14***
+![image](https://github.com/user-attachments/assets/39b6dc6a-bab1-4361-99fd-94b8387915e6)
+![How-Salesforce-Data-Cloud-Empowers-Businesses (1)](https://github.com/user-attachments/assets/90f692d2-fa3b-4fc3-aae5-8936afbfa3cb)
 
 
