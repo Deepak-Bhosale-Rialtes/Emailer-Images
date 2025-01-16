@@ -404,4 +404,8 @@
 ![image](https://github.com/user-attachments/assets/39b6dc6a-bab1-4361-99fd-94b8387915e6)
 ![How-Salesforce-Data-Cloud-Empowers-Businesses (1)](https://github.com/user-attachments/assets/90f692d2-fa3b-4fc3-aae5-8936afbfa3cb)
 
+***S4-hana-13***
+![sap-business one-vs-sap-s-4-hana-comparison (1)](https://github.com/user-attachments/assets/0113870a-8ffd-4795-be5c-44050a9f21ab)
+![image](https://github.com/user-attachments/assets/dbfdb0b7-c0e9-47fa-a264-fb558d02159d)
+
 
