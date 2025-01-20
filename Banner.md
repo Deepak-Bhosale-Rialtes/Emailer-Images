@@ -408,4 +408,6 @@
 ![sap-business one-vs-sap-s-4-hana-comparison (1)](https://github.com/user-attachments/assets/0113870a-8ffd-4795-be5c-44050a9f21ab)
 ![image](https://github.com/user-attachments/assets/dbfdb0b7-c0e9-47fa-a264-fb558d02159d)
 
-
+***webinar-4***
+![image](https://github.com/user-attachments/assets/7ad9af91-a210-47b4-96a6-ed4df41790b1)
+![image](https://github.com/user-attachments/assets/15008573-24e8-4f02-aac4-e9bfdef85dae)
