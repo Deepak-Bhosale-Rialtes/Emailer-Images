@@ -411,3 +411,8 @@
 ***webinar-4***
 ![image](https://github.com/user-attachments/assets/7ad9af91-a210-47b4-96a6-ed4df41790b1)
 ![image](https://github.com/user-attachments/assets/15008573-24e8-4f02-aac4-e9bfdef85dae)
+
+
+***Agentforce-15***
+![image](https://github.com/user-attachments/assets/14bc9ef1-f80f-4577-9295-bd2157f95712)
+![agentforce-ai-erp-integration (1)](https://github.com/user-attachments/assets/3f23f93e-a2eb-455e-9922-eb43ccee0b4b)
