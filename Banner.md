@@ -422,3 +422,7 @@
 ![image](https://github.com/user-attachments/assets/7053372f-5ae3-4761-917e-cb2ced250abb)
 
 
+***Data-Cloud-14***
+![salesforce-data-cloud-competitive-advantage (1)](https://github.com/user-attachments/assets/498812ce-d20f-44d8-9d5d-292a595dcb27)
+![image](https://github.com/user-attachments/assets/da4a5568-339a-4f74-9135-a21b1e706c1c)
+
