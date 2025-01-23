@@ -1,4 +1,5 @@
-![Frame 96487](https://github.com/user-attachments/assets/7f390f5f-4980-44d2-bc14-bd5aa0cd260f)![SAP HANA Logo](https://github.com/user-attachments/assets/eb413c85-ed91-4a6e-bf51-c9eacd55cea1)
+![Frame 96487](https://github.com/user-attachments/assets/7f390f5f-4980-44d2-bc14-bd5aa0cd260f)
+![SAP HANA Logo](https://github.com/user-attachments/assets/eb413c85-ed91-4a6e-bf51-c9eacd55cea1)
 ![SAP HANA Banner](https://github.com/user-attachments/assets/6e4296f1-ee54-4aa9-bf67-72cce8197f56)
 
 
@@ -45,9 +46,6 @@
 ![Agentforce 2 banner](https://github.com/user-attachments/assets/31461292-a94e-49d6-bc70-ca5f0214adc2)
 
 
-
-
-
 ***Successfactor-2***
 ![Successfactor Banner](https://github.com/user-attachments/assets/c823042c-d767-455e-84a3-2bec05f62f50)
 ![Successfactor Logo2](https://github.com/user-attachments/assets/19ba8c9e-ebef-430c-92d3-ee74733ea3bd)
@@ -59,7 +57,6 @@
 ***Data Cloud***
 ![Data Cloud-2 Header Image](https://github.com/user-attachments/assets/94c56a7e-2de2-4523-baaa-18a3bc692f61)
 ![Data Cloud Insights](https://github.com/user-attachments/assets/5cbb6079-3036-418b-8fb6-7ff96278699d)
-
 ![19e485af-bb69-4c16-b66e-98b4e1e24006](https://github.com/user-attachments/assets/f8f9911d-1a06-42fd-9c50-3792d38c1332)
 
 
