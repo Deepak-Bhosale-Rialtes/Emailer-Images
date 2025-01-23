@@ -426,3 +426,5 @@
 ![salesforce-data-cloud-competitive-advantage (1)](https://github.com/user-attachments/assets/498812ce-d20f-44d8-9d5d-292a595dcb27)
 ![image](https://github.com/user-attachments/assets/da4a5568-339a-4f74-9135-a21b1e706c1c)
 
+***S4-hana-14***
+![benefits-of-s4-hana-for-businesses (1)](https://github.com/user-attachments/assets/23122e31-130a-4079-aeae-c86ba2df47f4)
