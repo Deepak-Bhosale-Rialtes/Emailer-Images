@@ -425,3 +425,9 @@
 
 ***S4-hana-14***
 ![benefits-of-s4-hana-for-businesses (1)](https://github.com/user-attachments/assets/23122e31-130a-4079-aeae-c86ba2df47f4)
+
+
+***Agentforce-15***
+![Slack-meets-agentforce (1)](https://github.com/user-attachments/assets/98f8f6e4-bf5d-496e-a0c0-59efc5ddb34b)
+![image](https://github.com/user-attachments/assets/57e42ec3-6c22-44c6-93b0-c251dc29144f)
+
