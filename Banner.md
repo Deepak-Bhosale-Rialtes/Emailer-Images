@@ -431,3 +431,7 @@
 ![Slack-meets-agentforce (1)](https://github.com/user-attachments/assets/98f8f6e4-bf5d-496e-a0c0-59efc5ddb34b)
 ![image](https://github.com/user-attachments/assets/57e42ec3-6c22-44c6-93b0-c251dc29144f)
 
+***Test-Blog***
+![sap-successfactors-time-and-attendance-management](https://github.com/user-attachments/assets/12a73517-2cf8-4e64-9299-9a651817feae)
+![how-agentforce-helped-small-businesses-smb](https://github.com/user-attachments/assets/ce3d986c-8e5b-4cba-a289-dd1ca4e92f35)
+
