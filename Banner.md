@@ -441,3 +441,8 @@
 ![image](https://github.com/user-attachments/assets/32c3b991-ae61-44dc-bab4-b3740c772876)
 
 
+***Grow-With-SAP***
+![SAP-Business-AI_Blog](https://github.com/user-attachments/assets/5f1d3684-0d72-4a7a-8efc-5604b6b9d710)
+![image](https://github.com/user-attachments/assets/3e999e7a-6784-4d72-ae17-b5a22229e87d)
+
+
