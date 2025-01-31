@@ -434,4 +434,10 @@
 ***Test-Blog***
 ![sap-successfactors-time-and-attendance-management](https://github.com/user-attachments/assets/12a73517-2cf8-4e64-9299-9a651817feae)
 ![how-agentforce-helped-small-businesses-smb](https://github.com/user-attachments/assets/ce3d986c-8e5b-4cba-a289-dd1ca4e92f35)
+![Slack-meets-agentforce](https://github.com/user-attachments/assets/7071985d-6b09-4223-a5aa-a3d48435ce03)
+
+***Data-cloud-15***
+![Salesforce-Data-Cloud-for-Cross-Channel-Marketing (1)](https://github.com/user-attachments/assets/b8d46d95-f550-4af1-93ca-851ad4dabae4)
+![image](https://github.com/user-attachments/assets/32c3b991-ae61-44dc-bab4-b3740c772876)
+
 
