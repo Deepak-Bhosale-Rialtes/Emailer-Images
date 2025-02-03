@@ -445,4 +445,8 @@
 ![SAP-Business-AI_Blog](https://github.com/user-attachments/assets/5f1d3684-0d72-4a7a-8efc-5604b6b9d710)
 ![image](https://github.com/user-attachments/assets/3e999e7a-6784-4d72-ae17-b5a22229e87d)
 
+***Agentforce-16***
+![how-agentforce-helped-small-businesses-smb (1)](https://github.com/user-attachments/assets/b008a415-50a0-4c7b-8ce3-0856bf0f1b21)
+![image](https://github.com/user-attachments/assets/f87b1a64-4b0e-4dd9-9922-c575bfd7676f)
+
 
