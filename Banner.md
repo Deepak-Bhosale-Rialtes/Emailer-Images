@@ -453,3 +453,9 @@
 ***SuccessFactors-16***
 ![sap-successfactors-time-and-attendance-management (1)](https://github.com/user-attachments/assets/ea3bd36e-c478-412b-bd6d-7c13f21f2f30)
 ![image](https://github.com/user-attachments/assets/3ac29be7-4876-4595-8227-18ffa025075e)
+
+***Data-Cloud-16***
+![data-cloud-trinity-for-business-success (1)](https://github.com/user-attachments/assets/984c03cf-82aa-4e35-8c8d-964efb775c2e)
+![image](https://github.com/user-attachments/assets/45bfd95b-a18a-4687-8023-c2483b3314c5)
+
+
