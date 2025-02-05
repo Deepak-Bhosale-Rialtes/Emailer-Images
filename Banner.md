@@ -450,3 +450,6 @@
 ![image](https://github.com/user-attachments/assets/f87b1a64-4b0e-4dd9-9922-c575bfd7676f)
 
 
+***SuccessFactors-16***
+![sap-successfactors-time-and-attendance-management (1)](https://github.com/user-attachments/assets/ea3bd36e-c478-412b-bd6d-7c13f21f2f30)
+![image](https://github.com/user-attachments/assets/3ac29be7-4876-4595-8227-18ffa025075e)
