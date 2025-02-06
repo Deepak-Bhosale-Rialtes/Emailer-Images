@@ -418,7 +418,6 @@
 ![sap-successfactors-lms (1)](https://github.com/user-attachments/assets/afc2d260-7296-4e11-844d-b58958be72eb)
 ![image](https://github.com/user-attachments/assets/7053372f-5ae3-4761-917e-cb2ced250abb)
 
-
 ***Data-Cloud-14***
 ![salesforce-data-cloud-competitive-advantage (1)](https://github.com/user-attachments/assets/498812ce-d20f-44d8-9d5d-292a595dcb27)
 ![image](https://github.com/user-attachments/assets/da4a5568-339a-4f74-9135-a21b1e706c1c)
@@ -458,4 +457,7 @@
 ![data-cloud-trinity-for-business-success (1)](https://github.com/user-attachments/assets/984c03cf-82aa-4e35-8c8d-964efb775c2e)
 ![image](https://github.com/user-attachments/assets/45bfd95b-a18a-4687-8023-c2483b3314c5)
 
+***Grow-Wit-Sap***
+![grow-with-sap-for-manufacturing-industry (1)](https://github.com/user-attachments/assets/106e59f6-e219-4773-9d00-2eced5408fc7)
+![image](https://github.com/user-attachments/assets/34d1f797-8115-4f10-9158-cdf7632b3b71)
 
