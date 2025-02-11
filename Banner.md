@@ -461,3 +461,7 @@
 ![grow-with-sap-for-manufacturing-industry (1)](https://github.com/user-attachments/assets/106e59f6-e219-4773-9d00-2eced5408fc7)
 ![image](https://github.com/user-attachments/assets/34d1f797-8115-4f10-9158-cdf7632b3b71)
 
+
+***Agentforce-17***
+![salesforce-agentforce-features-you-are-missing (1)](https://github.com/user-attachments/assets/bd8e09db-6c36-4912-8523-7d8cebdf7133)
+
